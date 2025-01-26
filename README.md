@@ -27,7 +27,7 @@ Prerequisites
 Node.js and npm should be installed on your system. You can download them from here.
 Steps to Run Locally
 Clone the repository:
-git clone https://github.com/your-username/register-karo.git
+git clone https://github.com/Ishan-Malik/register_karo_assignment.git
 Navigate into the project folder:
 cd register-karo
 Install dependencies:
